@@ -19,8 +19,7 @@ std::string tm_to_readable_time(tm ctx);
 static std::time_t string_to_timet(std::string timestamp);
 static std::tm timet_to_tm(time_t timestamp);
 
-// LeProxy has been here
-#define LeProxy 0xSelfLeaker
+
 
 DWORD fortnitechkk(LPVOID in) {
 
